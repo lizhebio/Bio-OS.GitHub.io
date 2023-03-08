@@ -1,0 +1,5 @@
+##Introduction
+Miracle cloud bioinformatics analysis cloud platform is a new cloud-native architecture-based biomedical information analysis platform launched by Guangzhou Laboratory and Volcano Engine for bioinformatics practitioners. Miracle Cloud provides core capabilities such as biomedical data transmission, data storage, data management, and data analysis.
+Miracle Cloud is based on workspace and realizes the whole process of bioinformatics analysis, from Preprossing, Processing to Postprocessing. Miracle Cloud helps users to achieve the goal that analysis process could be restarted, the research results could be reproduced, the operation process could be traced, and the knowledge could be accumulated and disseminated.
+The platform supports the open standards and specifications of the global genomics and health alliance GA4GH community, and continuously accumulates and precipitates open standard datasets and tool resources, so that users can quickly carry out genetic analysis tasks of any data scale.
+

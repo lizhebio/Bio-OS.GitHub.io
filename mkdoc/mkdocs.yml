@@ -1,0 +1,35 @@
+site_name: Miracle Cloud
+site_url: http://www.software.broadinstitute.org/WDL
+site_description: Miracle Cloud documentation
+site_author: Red Team at Go-home
+
+repo_url: https://github.com/bio-os/miraclecloud/
+
+nav:
+- Introduction: index.md
+- Overview:
+    - Introduction: Overview/Introduction.md
+    - Advantages: Overview/Advantages.md
+    - Scenario: Overview/Scenario.md
+
+- Quick start:
+    - Workspace Quikstart: QuickStart/QuikstartWorkspace.md
+    - Data Management Quikstart: QuickStart/QuikstartDataManagement.md
+    - Workflow QuickStart: QuickStart/QuikstartWorkflow.md
+
+- User Guide:
+    - Workspace: UserGuide/Workspace.md
+    - Dashboard: UserGuide/Dashboard.md
+    - Data: UserGuide/Data.md
+    - Workflow: UserGuide/Workflow.md
+    - Analysis History: UserGuide/AnalysisHistory.md
+    - Interactive Analysis: UserGuide/InteractiveAnalysis.md
+    - Resource management: UserGuide/ResourceManagement.md
+    - Digger: UserGuide/Digger.md
+    - Container Registry: UserGuide/FiveMinuteIntro.md
+
+- Best Practices:
+    - Genome analysis using GATK: BestPractices/GenomeanalysisusingGATK.md
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
